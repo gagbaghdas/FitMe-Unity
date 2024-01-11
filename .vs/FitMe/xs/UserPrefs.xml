@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{AEA8C9D7-F66E-3CBA-3B63-06269977A633}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gag/UnityProjects/FitMe/Assets/Scripts/Managers/SceneSwitchManager.cs" relfile="Assets/Scripts/Managers/SceneSwitchManager.cs" line="45" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/HTTPManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/DataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainScreenHandler.cs" />
+      <File FileName="Assets/Scripts/Managers/HTTPManager.cs" Line="134" Column="23" />
+      <File FileName="Assets/Scripts/Managers/LoadingManager.cs" />
+      <File FileName="Assets/Scripts/Managers/SecurePlayerPrefsManager.cs" />
+      <File FileName="Assets/Scripts/data/UserData.cs" />
+      <File FileName="Assets/Scripts/Managers/AppManager.cs" />
+      <File FileName="Assets/Scripts/WelcomeScreenHandler.cs" />
+      <File FileName="Assets/Scripts/data/ResponseData.cs" />
+      <File FileName="Assets/Scripts/Utils.cs" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Mask.cs" Line="182" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FitMe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Managers" expanded="True">
+                  <Node name="HTTPManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0b304f8-3693-480b-9acc-ff898ba12d58" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
